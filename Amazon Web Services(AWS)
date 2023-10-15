@@ -1,0 +1,7 @@
+AMAZON WEB SERVIES (AWS)
+Here i have used S3 Bucket list to upload my file and store it in AWS web sever.
+My Website : https://gayathreebucket.s3.ap-south-1.amazonaws.com/TO+DO+LIST+PROJECT.html
+Amazon S3:
+Amazon S3 is an object storage service that offers industry-leading scalability, data availability, security, and performance.
+Store and protect any amount of data for a range of use cases, such as data lakes, websites, cloud-native applications, backups, archive, machine learning, and analytics.
+It is designed for 99.999999999% (11 9's) of durability, and stores data for millions of customers all around the world.
